@@ -1,1 +1,35 @@
-hello
+What is HTTP? 
+
+Hypertext Transfer Protocol (HTTP) is a method for encoding and transporting information between a client (such as a web browser) and a web server. 
+HTTP is the primary protocol for transmission of information across the Internet.
+
+Evolution of HTTP
+HTTP (HyperText Transfer Protocol) is the underlying protocol of the World Wide Web. 
+Developed by Tim Berners-Lee and his team between 1989-1991, HTTP has gone through many changes that have helped maintain its simplicity while shaping its flexibility. 
+Keep reading to learn how HTTP evolved from a protocol designed to exchange files in a semitrusted laboratory environment into a modern internet
+ maze that carries images and videos in high resolution and 3D.
+
+
+version of HTTP
+
+HTTP 1.0
+HTTP 1.1
+HTTP 2.0
+HTTP 3.0
+
+What is HTTP? Why is HTTP/2 faster than HTTP/1.1?
+
+HTTP is the method computers and servers use to request and send information. For instance, when someone navigates to cloudflare.com on their laptop,
+ their web browser sends an HTTP request to the Cloudflare servers for the content that appears on the page.
+
+What is HTTP/1.1?
+
+The first usable version of HTTP was created in 1997. Because it went through several stages of development, this first version of HTTP was called HTTP/1.1. This version is still in use on the web.
+
+What is HTTP/2?
+
+In 2015, a new version of HTTP called HTTP/2 was created. 
+HTTP/2 solves several problems that the creators of HTTP/1.1 did not anticipate. In particular, HTTP/2 is much faster and more efficient than HTTP/1.1. 
+One of the ways in which HTTP/2 is faster is in how it prioritizes content during the loading process.
+
+What is prioritization?
